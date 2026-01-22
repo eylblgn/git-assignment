@@ -1,2 +1,1 @@
-First line - changed in MAIN
-Task4 change
+First line - resolved (MAIN + BRANCH)
